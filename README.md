@@ -1,4 +1,6 @@
-# Ethical-Multitool-
+ # ProjectXPS Multitool 🧠💻
+A powerful all-in-one ethical hacking multitool featuring OSINT, networking, brute forcers, system utilities, and fun hacker pranks — all in a single file!
+
 
 ## ✨ Features
 
@@ -19,8 +21,6 @@ cd ProjectXPS-Multitool
 pip install -r requirements.txt
 python projectxps_multitool.py
 
-ProjectXPS Multitool 🧠💻
-A powerful all-in-one ethical hacking multitool featuring OSINT, networking, brute forcers, system utilities, and fun hacker pranks — all in a single file!
 
 
 
